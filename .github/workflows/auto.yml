@@ -28,10 +28,10 @@ jobs:
 
     - name: Download apps.json from Nextcloud API
       run: |
-        curl -o apps_ori.json https://apps.nextcloud.com/api/v1/apps.json
-        curl -o discover_ori.json https://apps.nextcloud.com/api/v1/discover.json
-        curl -o appapi_apps_ori.json https://apps.nextcloud.com/api/v1/appapi_apps.json
-        curl -o categories.json https://apps.nextcloud.com/api/v1/categories.json
+        curl -L -o apps_ori.json --retry 3 https://apps.nextcloud.com/api/v1/apps.json
+        curl -L -o discover_ori.json --retry 3 https://apps.nextcloud.com/api/v1/discover.json
+        curl -L -o appapi_apps_ori.json --retry 3 https://apps.nextcloud.com/api/v1/appapi_apps.json
+        curl -L -o categories.json --retry 3 https://apps.nextcloud.com/api/v1/categories.json
 
     - name: Replace github.com with github mirror in the JSON file
       run: |
