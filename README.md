@@ -3,6 +3,10 @@
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/alanwang233233/Nextcloud-Mirror-Repo)](https://github.com/alanwang233233/Nextcloud-Mirror-Repo)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/alanwang233233/Nextcloud-Mirror-Repo)](https://github.com/alanwang233233/Nextcloud-Mirror-Repo/commits/main)
 
+## 提醒
+
+由于文件地址修改，本仓库在2025.10至2025.12无法正常使用，现已修复
+
 ## 简介
 
 这是一个用于解决 Nextcloud 官方源在中国无法使用问题的镜像源仓库。通过此镜像源，用户可以更稳定地获取 Nextcloud 应用商店中的资源和更新。
