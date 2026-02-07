@@ -9,8 +9,8 @@
 			"content": {
 				"en": {
 					"src": [
-						{ "src": "https://gh.llkk.cc/https://github.com/nextcloud/firstrunwizard/raw/master/img/Nextcloud.webm", "mime": "video/webm"},
-						{ "src": "https://gh.llkk.cc/https://github.com/nextcloud/firstrunwizard/raw/master/img/Nextcloud.mp4", "mime": "video/mp4"}
+						{ "src": "https://gh.llkk.cc/https://github.com/nextcloud/firstrunwizard/raw/refs/tags/v32.0.0/img/Nextcloud.webm", "mime": "video/webm"},
+						{ "src": "https://gh.llkk.cc/https://github.com/nextcloud/firstrunwizard/raw/refs/tags/v32.0.0/img/Nextcloud.mp4", "mime": "video/mp4"}
 					],
 					"alt": "Welcome to Nextcloud Hub",
 					"link": "https://nextcloud.com/blog/"
