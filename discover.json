@@ -23,21 +23,21 @@
 		"id": "1od1a08e-asdd-49b3-ad1b-ff2e83bcdc88-2",
 		"order": 1,
 		"headline": {
-			"en": "Nextcloud Hub 25 Autumn: Your digital workspace, ready in no time"
+			"en": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
 		},
 		"text": {
-			"en": "Nextcloud Hub 25 Autumn makes it easy to get started with powerful collaboration while in control of your data. Discover our latest release."
+			"en": "Time to own your data is now. Introducing the new Nextcloud Hub, a powerful open source collaboration platform that puts you in control. Discover improvements in performance, design, and security, and lots of new and improved tools for your daily work and life."
 		},
-		"link": "https://nextcloud.com/blog/nextcloud-hub25-autumn/?utm_source=appstore_discover_section_top_section",
+		"link": "https://nextcloud.com/blog/nextcloud-hub26-winter/?utm_source=appstore_discover_section_top_section",
 		"media": {
 			"alignment": "start",
 			"content": {
 				"en": {
 					"src": {
-						"src": "https://nextcloud.com/c/uploads/2025/09/Nextcloud-Hub25Autumn-featured-image.png",
+						"src": "https://nextcloud.com/c/uploads/2026/02/Nextcloud-Hub26-Winter-featured-image.png",
 						"mime": "image/png"
 					},
-					"alt": "Nextcloud Hub 25 Autumn: Your digital workspace, ready in no time"
+					"alt": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
 				}
 			}
 		}
@@ -150,21 +150,21 @@
 				"id": "1od1a08e-asdd-49b3-ad1b-ff2e83bcdc88-2",
 				"order": 1,
 				"headline": {
-					"en": "Nextcloud Hub 25 Autumn: Your digital workspace, ready in no time"
+					"en": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
 				},
 				"text": {
-					"en": "Nextcloud Hub 25 Autumn makes it easy to get started with powerful collaboration while in control of your data. Discover our latest release."
+					"en": "Time to own your data is now. Introducing the new Nextcloud Hub, a powerful open source collaboration platform that puts you in control. Discover improvements in performance, design, and security, and lots of new and improved tools for your daily work and life."
 				},
-				"link": "https://nextcloud.com/blog/nextcloud-hub25-autumn/?utm_source=appstore_discover_section_top_section",
+				"link": "https://nextcloud.com/blog/nextcloud-hub26-winter/?utm_source=appstore_discover_section_top_section",
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2025/09/Nextcloud-Hub25Autumn-featured-image.png",
+								"src": "https://nextcloud.com/c/uploads/2026/02/Nextcloud-Hub26-Winter-featured-image.png",
 								"mime": "image/png"
 							},
-							"alt": "Nextcloud Hub 25 Autumn: Your digital workspace, ready in no time"
+							"alt": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
 						}
 					}
 				}
@@ -175,24 +175,24 @@
 				"type": "post",
 				"id": "1d41a08e-4aa6-49b4-bb1b-fddddbcdc96",
 				"headline": {
-					"en": "Digital Sovereignty Index: How countries compare in digital independence"
+					"en": "Nextcloud CEO and founder Frank Karlitschek wins European Open Source Award for Business & Impact"
 				},
 				"text": {
-					"en": "The debate around digital sovereignty has gained momentum. We show how countries compare in digital independence."
+					"en": "Nextcloud CEO Frank Karlitschek wins the European Open Source Award for Business & Impact, highlighting the strength of open source and its community."
 				},
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2025/08/Nextcloud-Digital-Sovereignty-Index.png",
+								"src": "https://nextcloud.com/c/uploads/2026/02/featured-image-nextcloud-blog-post-frank-karlitschek-wins-eosa-2026.png",
 								"mime": "image/png"
 							},
-							"alt": "Digital Sovereignty Index: How countries compare in digital independence"
+							"alt": "Nextcloud CEO and founder Frank Karlitschek wins European Open Source Award for Business & Impact"
 						}
 					}
 				},
-				"link": "https://nextcloud.com/blog/digital-sovereignty-index-how-countries-compare-in-digital-independence/?utm_source=appstore_discover_section_carousel"
+				"link": "https://nextcloud.com/blog/nextcloud-ceo-and-founder-frank-karlitschek-wins-european-open-source-award-for-business-impact/?utm_source=appstore_discover_section_carousel"
 			},
 
 
@@ -200,25 +200,79 @@
 				"type": "post",
 				"id": "1d12308e-4aa6-49b4-ee1b-ff2cccccdc96",
 				"headline": {
-					"en": "Owning your data: The open source path with Nextcloud and MariaDB"
+					"en": "A new data access architecture for Nextcloud: introducing the ADA engine"
 				},
 				"text": {
-					"en": "Anna Widenius and Michael &quot;Monty&quot; Widenius help us unpack the challenges of open source, vendor lock-in, and owning your data."
+					"en": "Introducing the ADA engine, Nextcloud’s new data access architecture: Faster file access, lower server load, direct S3 downloads, and more."
 				},
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2025/08/Nextcloud-Podcast-030.png",
+								"src": "https://nextcloud.com/c/uploads/2026/02/blog-featured-image-a-new-data-access-architecture-for-nextcloud-introducing-the-ada-engine.png",
 								"mime": "image/png"
 							},
-							"alt": "Owning your data: The open source path with Nextcloud and MariaDB"
+							"alt": "A new data access architecture for Nextcloud: introducing the ADA engine"
 						}
 					}
 				},
-				"link": "https://nextcloud.com/blog/owning-your-data-the-open-source-path-with-nextcloud-and-mariadb/?utm_source=appstore_discover_section_carousel"
+				"link": "https://nextcloud.com/blog/a-new-data-access-architecture-for-nextcloud-introducing-the-ada-engine/?utm_source=appstore_discover_section_carousel"
+			},
+			
+
+			{
+				"type": "post",
+				"id": "1d12308e-4aa6-49b4-ee1b-ff2cccccdc963",
+				"headline": {
+					"en": "Austria’s Ministry of Economy takes decisive steps toward digital sovereignty"
+				},
+				"text": {
+					"en": "Discover why the Austrian Ministry of Economy trusts Nextcloud for secure and digitally sovereign collaboration and data management."
+				},
+				"media": {
+					"alignment": "start",
+					"content": {
+						"en": {
+							"src": {
+								"src": "https://nextcloud.com/c/uploads/2025/10/featured-image-blog-post-austrias-ministry-of-economy-digital-sovereignty.png",
+								"mime": "image/png"
+							},
+							"alt": "Austria’s Ministry of Economy takes decisive steps toward digital sovereignty"
+						}
+					}
+				},
+				"link": "https://nextcloud.com/blog/austrias-ministry-of-economy-takes-decisive-steps-toward-digital-sovereignty/?utm_source=appstore_discover_section_carousel"
+			},
+			
+			
+			{
+				"type": "post",
+				"id": "1d12308e-4aa6-49b4-ee1b-ff2cccccdc964",
+				"headline": {
+					"en": "Nextcloud recognized as a Digital Public Good"
+				},
+				"text": {
+					"en": "Nextcloud's long-standing commitment to open source, privacy, and data control has been recognized by the Digital Public Good Alliance."
+				},
+				"media": {
+					"alignment": "start",
+					"content": {
+						"en": {
+							"src": {
+								"src": "https://nextcloud.com/c/uploads/2026/01/nextcloud-recognized-as-a-digital-public-good.png",
+								"mime": "image/png"
+							},
+							"alt": "Nextcloud recognized as a Digital Public Good"
+						}
+					}
+				},
+				"link": "https://nextcloud.com/blog/nextcloud-recognized-as-a-digital-public-good/?utm_source=appstore_discover_section_carousel"
 			}
+			
+			
+			
+			
 		]
 	}
 ]
