@@ -46,5 +46,5 @@ jobs:
         git config --local user.email "wangzihao2010@outlook.com"
         git config --local user.name "Error404"
         git add apps.json discover.json categories.json appapi_apps.json
-        git commit -m "镜像原每日更新" || echo "No changes to commit"
+        git commit -m "镜像源每日更新" || echo "No changes to commit"
         git push origin HEAD
