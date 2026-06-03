@@ -20,24 +20,24 @@
 	},
 	{
 		"type": "post",
-		"id": "1od1a08e-asdd-49b3-ad1b-ff2e83bcdc88-2",
+		"id": "a7f3c92b-d4e1-48f7-bc2a-113e92fade01-7",
 		"order": 1,
 		"headline": {
-			"en": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
+			"en": "Nextcloud Hub 26 Spring: Built together, designed for the future"
 		},
 		"text": {
-			"en": "Time to own your data is now. Introducing the new Nextcloud Hub, a powerful open source collaboration platform that puts you in control. Discover improvements in performance, design, and security, and lots of new and improved tools for your daily work and life."
+			"en": "Today we present Nextcloud Hub 26 Spring, our anniversary release. It gives you even more choice for your tools, a refined UI, stress-free collaboration, and the new platform strategy that enables developers to benefit more from our vast ecosystem. Built together, designed for the future."
 		},
-		"link": "https://nextcloud.com/blog/nextcloud-hub26-winter/?utm_source=appstore_discover_section_top_section",
+		"link": "https://nextcloud.com/blog/nextcloud-hub26-spring/?utm_source=appstore_discover_section_top_section",
 		"media": {
 			"alignment": "start",
 			"content": {
 				"en": {
 					"src": {
-						"src": "https://nextcloud.com/c/uploads/2026/02/Nextcloud-Hub26-Winter-featured-image.png",
+						"src": "https://nextcloud.com/c/uploads/2026/05/Nextcloud-Hub26-Spring-featured-image.png",
 						"mime": "image/png"
 					},
-					"alt": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
+					"alt": "Nextcloud Hub 26 Spring: Built together, designed for the future"
 				}
 			}
 		}
@@ -53,47 +53,47 @@
 		"content": [
 			{
 				"type": "post",
-				"id": "app-analytics",
+				"id": "app-weekplanner",
 				"headline": {
-					"en": "Unlock the power of data with Analytics"
+					"en": "Week Planner"
 				},
 				"text": {
-					"en": "Seamlessly connect data from multiple sources—external platforms, Tables, or Forms—into one unified hub. Create flexible reports and build meaningful dashboards, all integrated with the powerful Nextcloud AI for smarter insights and decisions."
+					"en": "A simple weekly planner inspired by Tweek, living right inside your Nextcloud. Easy planning with full control over your data."
 				},
-				"link": "app://analytics"
+				"link": "app://weekplanner"
 			},
 			{
 				"type": "post",
-				"id": "app-tasks",
+				"id": "app-linkboard",
 				"headline": {
-					"en": "Tasks"
+					"en": "Linkboard"
 				},
 				"text": {
-					"en": "A tasks app for Nextcloud. Easily sync tasks from various devices with your Nextcloud and edit them online. ✨ This is the first app migrated to Vue 3 for Nextcloud ✨"
+					"en": "Customizable service dashboard to organize your services in categories, monitor status, and access everything from Nextcloud."
 				},
-				"link": "app://tasks"
+				"link": "app://linkboard"
 			},
 			{
 				"type": "post",
-				"id": "app-forms",
+				"id": "app-pantry",
 				"headline": {
-					"en": "Forms"
+					"en": "Pantry"
 				},
 				"text": {
-					"en": "📝 Simple surveys and questionnaires, self-hosted! With Nextcloud 29 and Forms 4.2.0 you can now also archive old forms to cleanup your workspace 🧹"
+					"en": "Household management app to keep your house organized collaboratively with checklists, photo boards, notes and more."
 				},
-				"link": "app://forms"
+				"link": "app://pantry"
 			},
 			{
 				"type": "post",
-				"id": "app-cookbook",
+				"id": "app-mastermind",
 				"headline": {
-					"en": "Cookbook 👨‍🍳"
+					"en": "Mastermind"
 				},
 				"text": {
-					"en": "A library for all your recipes. To add a recipe to the collection, you can paste in the URL of the recipe, and the provided web page will be parsed and downloaded to whichever folder you specify in the app settings. "
+					"en": "Nextcloud version of the popular game Mastermind, where you have to crack a code consisting of five colors within a fixed number of turns."
 				},
-				"link": "app://cookbook"
+				"link": "app://mastermind"
 			}
 		]
 	},
@@ -147,24 +147,24 @@
 		"content": [
 			{
 				"type": "post",
-				"id": "1od1a08e-asdd-49b3-ad1b-ff2e83bcdc88-2",
+				"id": "a7f3c92b-d4e1-48f7-bc2a-113e92fade01-7",
 				"order": 1,
 				"headline": {
-					"en": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
+					"en": "Nextcloud Hub 26 Spring: Built together, designed for the future"
 				},
 				"text": {
-					"en": "Time to own your data is now. Introducing the new Nextcloud Hub, a powerful open source collaboration platform that puts you in control. Discover improvements in performance, design, and security, and lots of new and improved tools for your daily work and life."
+					"en": "Today we present Nextcloud Hub 26 Spring, our anniversary release. It gives you even more choice for your tools, a refined UI, stress-free collaboration, and the new platform strategy that enables developers to benefit more from our vast ecosystem. Built together, designed for the future."
 				},
-				"link": "https://nextcloud.com/blog/nextcloud-hub26-winter/?utm_source=appstore_discover_section_top_section",
+				"link": "https://nextcloud.com/blog/nextcloud-hub26-spring/?utm_source=appstore_discover_section_top_section",
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2026/02/Nextcloud-Hub26-Winter-featured-image.png",
+								"src": "https://nextcloud.com/c/uploads/2026/05/Nextcloud-Hub26-Spring-featured-image.png",
 								"mime": "image/png"
 							},
-							"alt": "Nextcloud Hub 26 Winter: Reclaim your digital autonomy"
+							"alt": "Nextcloud Hub 26 Spring: Built together, designed for the future"
 						}
 					}
 				}
@@ -173,101 +173,101 @@
 
 			{
 				"type": "post",
-				"id": "1d41a08e-4aa6-49b4-bb1b-fddddbcdc96",
+				"id": "3b8e21fd-c509-4a1e-d73f-882bc4e1a057-4",
 				"headline": {
-					"en": "Nextcloud CEO and founder Frank Karlitschek wins European Open Source Award for Business & Impact"
+					"en": "Vote for Nextcloud in the CloudComputing-Insider Award 2026"
 				},
 				"text": {
-					"en": "Nextcloud CEO Frank Karlitschek wins the European Open Source Award for Business & Impact, highlighting the strength of open source and its community."
+					"en": "Is Nextcloud your top choice as cloud content management solution? Vote for us in the CloudComputing-Insider Award 2026 and show your support!"
 				},
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2026/02/featured-image-nextcloud-blog-post-frank-karlitschek-wins-eosa-2026.png",
+								"src": "https://nextcloud.com/c/uploads/2026/04/blog-featured-image-vote-for-nextcloud-cloudcomputing-insider-award-2026.png",
 								"mime": "image/png"
 							},
-							"alt": "Nextcloud CEO and founder Frank Karlitschek wins European Open Source Award for Business & Impact"
+							"alt": "Vote for Nextcloud in the CloudComputing-Insider Award 2026"
 						}
 					}
 				},
-				"link": "https://nextcloud.com/blog/nextcloud-ceo-and-founder-frank-karlitschek-wins-european-open-source-award-for-business-impact/?utm_source=appstore_discover_section_carousel"
+				"link": "https://nextcloud.com/blog/vote-for-nextcloud-in-the-cloudcomputing-insider-it-awards-2026/?utm_source=appstore_discover_section_carousel"
 			},
 
 
 			{
 				"type": "post",
-				"id": "1d12308e-4aa6-49b4-ee1b-ff2cccccdc96",
+				"id": "5d1f8b2a-e743-47c9-b6e4-991af3dc2e05-3",
 				"headline": {
-					"en": "A new data access architecture for Nextcloud: introducing the ADA engine"
+					"en": "Nextcloud Community Conference 2026: Call for speakers"
 				},
 				"text": {
-					"en": "Introducing the ADA engine, Nextcloud’s new data access architecture: Faster file access, lower server load, direct S3 downloads, and more."
+					"en": "Passionate about data privacy and Nextcloud? We invite you speak at the Nextcloud Community Conference to share your experience, knowledge and news with the community!"
 				},
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2026/02/blog-featured-image-a-new-data-access-architecture-for-nextcloud-introducing-the-ada-engine.png",
+								"src": "https://nextcloud.com/c/uploads/2026/05/Community-Conference_Call-for-speakers.jpg",
 								"mime": "image/png"
 							},
-							"alt": "A new data access architecture for Nextcloud: introducing the ADA engine"
+							"alt": "Nextcloud Community Conference 2026: Call for speakers"
 						}
 					}
 				},
-				"link": "https://nextcloud.com/blog/a-new-data-access-architecture-for-nextcloud-introducing-the-ada-engine/?utm_source=appstore_discover_section_carousel"
+				"link": "https://nextcloud.com/blog/nextcloud-conference-2026-call-for-speakers/?utm_source=appstore_discover_section_carousel"
 			},
 			
 
 			{
 				"type": "post",
-				"id": "1d12308e-4aa6-49b4-ee1b-ff2cccccdc963",
+				"id": "f92a7c3e-1bd4-4e8b-a521-cc3d74f0e819-6",
 				"headline": {
-					"en": "Austria’s Ministry of Economy takes decisive steps toward digital sovereignty"
+					"en": "How working with multiple vendors is hurting your organization: The impact of vendor sprawl"
 				},
 				"text": {
-					"en": "Discover why the Austrian Ministry of Economy trusts Nextcloud for secure and digitally sovereign collaboration and data management."
+					"en": "Too many SaaS tools? Vendor sprawl is hurting your organization because of audit fatigue, data sprawl, and transparency risks. Learn how to take back control."
 				},
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2025/10/featured-image-blog-post-austrias-ministry-of-economy-digital-sovereignty.png",
+								"src": "https://nextcloud.com/c/uploads/2026/04/blog-featured-image-how-working-with-multiple-vendors-is-hurting-your-organization-the-impact-of-vendor-sprawl.png",
 								"mime": "image/png"
 							},
-							"alt": "Austria’s Ministry of Economy takes decisive steps toward digital sovereignty"
+							"alt": "How working with multiple vendors is hurting your organization: The impact of vendor sprawl"
 						}
 					}
 				},
-				"link": "https://nextcloud.com/blog/austrias-ministry-of-economy-takes-decisive-steps-toward-digital-sovereignty/?utm_source=appstore_discover_section_carousel"
+				"link": "https://nextcloud.com/blog/how-working-with-multiple-vendors-is-hurting-your-organization-the-impact-of-vendor-sprawl/?utm_source=appstore_discover_section_carousel"
 			},
 			
 			
 			{
 				"type": "post",
-				"id": "1d12308e-4aa6-49b4-ee1b-ff2cccccdc964",
+				"id": "c4e6a91d-b238-4f7b-8d5a-776e20cb1f43-9",
 				"headline": {
-					"en": "Nextcloud recognized as a Digital Public Good"
+					"en": "How digital sovereignty is accelerating: millions of new enterprise users and over 50% growth for Nextcloud"
 				},
 				"text": {
-					"en": "Nextcloud's long-standing commitment to open source, privacy, and data control has been recognized by the Digital Public Good Alliance."
+					"en": "Explore how millions of new users and rapid growth are driving adoption of open, secure collaboration platforms like Nextcloud."
 				},
 				"media": {
 					"alignment": "start",
 					"content": {
 						"en": {
 							"src": {
-								"src": "https://nextcloud.com/c/uploads/2026/01/nextcloud-recognized-as-a-digital-public-good.png",
+								"src": "https://nextcloud.com/c/uploads/2026/03/blog-post-featured-image-how-digital-sovereignty-is-accelerating-millions-of-new-enterprise-users-and-over-50-growth-for-nextcloud.png",
 								"mime": "image/png"
 							},
-							"alt": "Nextcloud recognized as a Digital Public Good"
+							"alt": "How digital sovereignty is accelerating: millions of new enterprise users and over 50% growth for Nextcloud"
 						}
 					}
 				},
-				"link": "https://nextcloud.com/blog/nextcloud-recognized-as-a-digital-public-good/?utm_source=appstore_discover_section_carousel"
+				"link": "https://nextcloud.com/blog/digital-sovereignty-gains-momentum-millions-of-new-enterprise-users/?utm_source=appstore_discover_section_carousel"
 			}
 			
 			
